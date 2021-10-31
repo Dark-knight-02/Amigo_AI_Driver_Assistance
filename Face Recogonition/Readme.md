@@ -8,3 +8,4 @@ Further moving on it is possible to set up personalised UI settings based on a p
 
 I'm working to deploy an algorithm to identify the mood of the passenger and make adjustments in the UI. 
 In case of an Autonomous vehicle the same algorithm with some modifications can also be utilised to adjust the speed and handling of the vehicle.
+
